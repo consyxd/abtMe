@@ -23,7 +23,7 @@ struct ContentView: View {
                 Text("Hi, I'm Cindy!")
                     .font(.largeTitle)
                     .fontWeight(.heavy)
-                    .foregroundColor(Color.blue)
+                    .foregroundColor(Color.green)
                 
                 Image("cindy")
                     .resizable(resizingMode: .stretch)
