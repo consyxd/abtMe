@@ -44,7 +44,7 @@ struct ContentView: View {
                 }
                 .padding()
              
-                .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
+                .foregroundColor(/*@START_MENU_TOKEN@*/.green/*@END_MENU_TOKEN@*/)
                 .buttonStyle(.borderedProminent)
                 .border(Color.white, width: 20)
                 .tint(.white)
